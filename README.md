@@ -25,3 +25,5 @@ To visualize the model training process, I used TensorBoard for tracking the los
 Discussion:
 The model effectively classifies concrete cracks, achieving over 90% accuracy. Using transfer learning with MobileNetV2 allowed for efficient training and feature extraction, while data augmentation ensured better generalization. 
 The results show the potential for real-world applications in concrete crack detection for safety and maintenance.
+
+Credit: Data set was taken from : https://data.mendeley.com/datasets/5y9wdsg2zt/2
